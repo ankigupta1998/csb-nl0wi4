@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://ankigupta1998.github.io/csb-nl0wi4/static/css/main.a617e044.chunk.css",
+    "main.js": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/main.253fff4a.chunk.js",
+    "main.js.map": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/main.253fff4a.chunk.js.map",
+    "runtime-main.js": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/runtime-main.8704223c.js",
+    "runtime-main.js.map": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/runtime-main.8704223c.js.map",
+    "static/js/2.90de5ea7.chunk.js": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/2.90de5ea7.chunk.js",
+    "static/js/2.90de5ea7.chunk.js.map": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/2.90de5ea7.chunk.js.map",
+    "static/js/3.cc234933.chunk.js": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/3.cc234933.chunk.js",
+    "static/js/3.cc234933.chunk.js.map": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/3.cc234933.chunk.js.map",
+    "index.html": "https://ankigupta1998.github.io/csb-nl0wi4/index.html",
+    "static/css/main.a617e044.chunk.css.map": "https://ankigupta1998.github.io/csb-nl0wi4/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.90de5ea7.chunk.js.LICENSE.txt": "https://ankigupta1998.github.io/csb-nl0wi4/static/js/2.90de5ea7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8704223c.js",
+    "static/js/2.90de5ea7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.253fff4a.chunk.js"
+  ]
+}
